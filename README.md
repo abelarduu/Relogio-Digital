@@ -1,7 +1,7 @@
 <div align="center">
   
   ### Sobre o projeto
-  Relógio digital com interface simples e elegante criado em python utilizando CustomTkinter e Time.
+  Relógio digital com interface simples e elegante criado em python utilizando Time e CustomTkinter.
   
   [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![](https://img.shields.io/badge/Customtkinter-V.5.1.2-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/TomSchimansky/CustomTkinter)
