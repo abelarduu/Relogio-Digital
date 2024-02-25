@@ -11,5 +11,5 @@ Relógio digital com interface simples e elegante criado em python utilizando Ti
 ### Resultado
   <img src="img/interface p1.png" type="image/png" alt="Interface p2" >
   <img src="img/interface p2.png" type="image/png" alt="Interface p2" >
-  <img src="img/Relogio-Digital.gif" type="image/gif" alt="Qrcode_Bit gif" height=405><br>
+  <img src="img/Relogio-Digital.gif" type="image/gif" alt="Qrcode_Bit gif" height=405>
 </div>
