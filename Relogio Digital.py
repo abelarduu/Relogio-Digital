@@ -55,7 +55,7 @@ class App:
         self.timer= strftime("%T",gmtime(self.n))
 
         self.timeLbl.configure(text=self.time)
-        self.timerLbl.configure(text=self.timer) 
+        self.timerLbl.configure(text=self.timer)
 
         self.master.after(1000, self.get_time)
 
