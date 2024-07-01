@@ -8,7 +8,6 @@ class Master(CTk):
         self.title(title)
         self.minsize(width, height)
         self.resizable(resizable, resizable)
-        #self.iconbitmap("resources/icon.ico")
 
         self.rowconfigure(3, weight=3)
         self.columnconfigure(3, weight=3)
