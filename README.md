@@ -1,6 +1,6 @@
 <div align="center">
  
-![Gameplay](img/icon.gif)
+![logo](img/logo.png)
  
 ### Sobre o projeto
 Relógio digital com interface simples e elegante criado em python utilizando Time e CustomTkinter.
