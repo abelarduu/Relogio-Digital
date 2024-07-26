@@ -1,6 +1,6 @@
 <div align="center">
  
-![logo](img/logo.png)
+![logo](img/icon.png)
  
 ### Sobre o projeto
 Relógio digital com interface simples e elegante criado em python utilizando Time e CustomTkinter.
@@ -12,6 +12,6 @@ Relógio digital com interface simples e elegante criado em python utilizando Ti
 ### Resultado
 ![Interface p.1](img/interface-p2.png)
 ![Interface p.2](img/interface-p2.png)
-![Interface gif](img/TimeLite.gif)
+![Interface gif](img/ClockLite.gif)
 
 </div>
