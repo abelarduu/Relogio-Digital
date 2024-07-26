@@ -13,19 +13,19 @@ class App:
         
         self.tab_view = CTkTabview(MASTER, height=90)
         self.tab_view.grid(row=2, column=2, rowspan=3, columnspan=3)
-        self.tab_view.add("Relógio Digital")
-        self.tab_view.add("Cronômetro")
+        self.tab_view.add("Digital Clock")
+        self.tab_view.add("Stopwatch")
         
         # Criando elementos da interface
-        self.time_lbl = CTkLabel(self.tab_view.tab("Relógio Digital"),
+        self.time_lbl = CTkLabel(self.tab_view.tab("Digital Clock"),
                                  text=self.time,
                                  font=("LCDD", 90))
 
-        self.timer_lbl = CTkLabel(self.tab_view.tab("Cronômetro"),
+        self.timer_lbl = CTkLabel(self.tab_view.tab("Stopwatch"),
                                   text=self.timer,
                                   font=("LCDD", 90))
 
-        self.btn_timer = CTkButton(self.tab_view.tab("Cronômetro"),
+        self.btn_timer = CTkButton(self.tab_view.tab("Stopwatch"),
                                    text=None,
                                    bg_color="transparent",
                                    image=IMG_PLAY,

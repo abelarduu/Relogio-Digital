@@ -7,7 +7,7 @@ from PIL import Image
 ASSETS_PATH = Path(__file__).parent / "assets"
 
 # Cria a janela principal
-MASTER = Window(350, 200, "TimeLite", True)
+MASTER = Window(350, 200, "ClockLite", True)
 
 # Carrega e cria as imagens para os botões de controle
 IMG_PLAY = CTkImage(light_image=Image.open(ASSETS_PATH / "play.png"), size=(32, 32))
